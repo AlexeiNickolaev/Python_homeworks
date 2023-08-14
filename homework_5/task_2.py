@@ -18,6 +18,6 @@ name_list = ['Vlad', 'Den', 'Alex']
 salary_list = [1000, 2000, 3000]
 extra_list = ['10.25%', '15%', '20%']
 
-bonus_dictionary = {name: calculate_bonus(salary, extra)for name, salary,
-                    extra in zip(name_list, salary_list, extra_list)}
+bonus_dictionary = ({name: calculate_bonus(salary, extra)for name, salary,
+                    extra in zip(name_list, salary_list, extra_list)})
 print(bonus_dictionary)

@@ -3,7 +3,7 @@
 # Функция возвращает кортеж из трёх элементов: путь,
 # имя файла, расширение файла.
 # Ввод: c:/Users/Vladislav/Desktop/deep_to_python/test.txt
-# Вывод: ('c:/Users/Vladislav/Desktop/deep_to_python/', 'test', '.txt')
+# Вывод: (' c:/Users/Vladislav/Desktop/deep_to_python/', 'test', '.txt')
 
 
 import os
