@@ -1,0 +1,67 @@
+{
+    "name": "homework_8",
+    "type": "directory",
+    "contents": [
+        {
+            "name": "seminar8",
+            "type": "directory",
+            "contents": [
+                {
+                    "name": "data_base.json",
+                    "extension": ".json",
+                    "type": "file"
+                },
+                {
+                    "name": "res.csv",
+                    "extension": ".csv",
+                    "type": "file"
+                },
+                {
+                    "name": "res.json",
+                    "extension": ".json",
+                    "type": "file"
+                },
+                {
+                    "name": "result.txt",
+                    "extension": ".txt",
+                    "type": "file"
+                },
+                {
+                    "name": "task1.py",
+                    "extension": ".py",
+                    "type": "file"
+                },
+                {
+                    "name": "task2.py",
+                    "extension": ".py",
+                    "type": "file"
+                },
+                {
+                    "name": "task3.py",
+                    "extension": ".py",
+                    "type": "file"
+                },
+                {
+                    "name": "task4.py",
+                    "extension": ".py",
+                    "type": "file"
+                },
+                {
+                    "name": "users.json",
+                    "extension": ".json",
+                    "type": "file"
+                }
+            ]
+        },
+        {
+            "name": "task_1.py",
+            "extension": ".py",
+            "type": "file"
+        },
+        {
+            "name": "test.txt",
+            "extension": ".txt",
+            "type": "file"
+        }
+    ]
+}

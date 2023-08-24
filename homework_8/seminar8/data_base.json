@@ -1,0 +1,38 @@
+{
+    "1": [
+        {
+            "name": "asxc",
+            "id": 234
+        }
+    ],
+    "5": [
+        {
+            "name": "fghy",
+            "id": 1234567
+        },
+        {
+            "name": "asdfgh",
+            "id": 5
+        }
+    ],
+    "3": [
+        {
+            "name": "& C:/Users/Alexei/AppData/Local/Microsoft/WindowsApps/python3.10.exe d:/Python/education/seminars/seminar8/task3.py",
+            "id": 2
+        },
+        {
+            "name": "& C:/Users/Alexei/AppData/Local/Microsoft/WindowsApps/python3.10.exe d:/Python/education/seminars/seminar8/task3.py",
+            "id": 3
+        }
+    ],
+    "2": [
+        {
+            "name": "asd",
+            "id": 234567
+        },
+        {
+            "name": "asd",
+            "id": 345678
+        }
+    ]
+}
